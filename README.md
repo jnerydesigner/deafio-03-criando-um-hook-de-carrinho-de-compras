@@ -60,6 +60,6 @@ yarn
 
 
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/jander-nery/">:open_file_folder: Linkedin Jander Nery :open_file_folder:</a>
+<a href="https://www.linkedin.com/in/jander-nery/" target="_blank" >:open_file_folder: Linkedin Jander Nery :open_file_folder:</a>
 </div>
 
