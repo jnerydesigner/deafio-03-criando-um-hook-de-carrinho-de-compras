@@ -36,3 +36,18 @@ export const Cart = styled(Link)`
     }
   }
 `;
+
+export const Button = styled.button`
+  background: transparent;
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  span{
+    color: #fff;
+    margin-right: 10px;
+  }
+`;
+
