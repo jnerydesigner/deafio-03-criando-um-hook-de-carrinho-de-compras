@@ -6,9 +6,9 @@
 
 ### Usados Nesse desafio
 
-* Fake API com JSON Server
-* Preservar dados do carrinho com Local Storage
-* Mostrar Erros com o component toastfy
+:arrow_forward: Fake API com JSON Server
+:arrow_forward: Preservar dados do carrinho com Local Storage
+:arrow_forward: Mostrar Erros com o component toastfy
 
 ## Instalation React-Toastfy
 
