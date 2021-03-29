@@ -1,4 +1,6 @@
+<div align="center" id="top"> 
 <img src="https://github.com/jnerydesigner/desafio-02-componentizando-a-aplica-o/blob/main/src/assets/bg.png" alt="Desafio 02: Componentizando sua aplicação" />
+</div>
 
 ## Desafio 03: Criando um hook de carrinho de compras
 
